@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JetCharacters</string>
+    <string name="search_character">Search for your character...</string>
+    <string name="scroll_to_top">Scroll to Top</string>
+</resources>
